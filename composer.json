@@ -1,0 +1,17 @@
+{
+    "name": "jet/week2",
+    "autoload": {
+        "psr-4": {
+            "Jet\\Week2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jacob Turner",
+            "email": "jeturner44@outlook.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
